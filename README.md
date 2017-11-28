@@ -45,13 +45,3 @@ github下载：[https://github.com/forezp/SpringCloudLearning](https://github.co
 * [ 如何用Redlock实现分布式锁](http://blog.csdn.net/forezp/article/details/70305336)
 * [ 如何在IDEA启动多个Spring Boot工程实例](http://blog.csdn.net/forezp/article/details/76408139)
 
-
-### 怎么支持我？
-
-* 这个系列会持续更新，敬请关注！
-
-* 关注我的公众号,精彩内容不能错过！
-
-![forezp.jpg](http://upload-images.jianshu.io/upload_images/2279594-0805748d92bba033.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
-
-
