@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="354ebef6-2217-4fd4-ab3c-e3369bc06b85" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../demo/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../demo/mvnw" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../demo/mvnw.cmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../demo/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/DemoApplication.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../demo/src/main/resources/application.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../demo/src/test/java/com/example/demo/DemoApplicationTests.java" afterPath="" />
-    </list>
+    <list default="true" id="354ebef6-2217-4fd4-ab3c-e3369bc06b85" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/demo/target/" />
@@ -291,7 +281,7 @@
     <property name="nodejs_interpreter_path" value="D:/work_Soft/nodeJS/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../config-server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringCloudSleuthDemo" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelWidth1" value="75" />
@@ -484,12 +474,12 @@
       <workItem from="1511883961166" duration="1539000" />
       <workItem from="1511919067947" duration="722000" />
       <workItem from="1511935370020" duration="790000" />
-      <workItem from="1511965260846" duration="11000" />
+      <workItem from="1511965260846" duration="89000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18400000" />
+    <option name="totallyTimeSpent" value="18478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
