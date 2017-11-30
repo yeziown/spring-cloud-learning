@@ -3,9 +3,13 @@ server:
 eureka:
   instance:
     hostname: peer1
-    client:
+  client:
       serviceUrl:
         defaultZone: http://peer2:8769/eureka/
 spring:
   profiles:
     active: peer1
+
+#直接在配置文件里写ip 也是可以的，spring 怎么可能这么挫，另外可以3个集群，
+#serviceUrl:
+#defaultZone: http://peer1:8761/eureka/,http://peer1:8763/eureka/ 逗号隔开就行了，形成3台集群
