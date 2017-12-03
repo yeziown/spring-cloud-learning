@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="354ebef6-2217-4fd4-ab3c-e3369bc06b85" name="Default" comment="" />
+    <list default="true" id="354ebef6-2217-4fd4-ab3c-e3369bc06b85" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/demo/target/" />
@@ -292,7 +294,7 @@
     <property name="nodejs_interpreter_path" value="D:/work_Soft/nodeJS/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../service-ribbon" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringCloudHystrixDashboardTurbineDemo" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelWidth1" value="75" />
@@ -490,12 +492,12 @@
       <workItem from="1511970351576" duration="10000" />
       <workItem from="1512303600578" duration="4388000" />
       <workItem from="1512308077684" duration="872000" />
-      <workItem from="1512309045387" duration="57000" />
+      <workItem from="1512309045387" duration="371000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24699000" />
+    <option name="totallyTimeSpent" value="25013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="588" y="0" width="925" height="1047" extended-state="0" />
