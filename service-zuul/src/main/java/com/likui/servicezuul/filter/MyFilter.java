@@ -22,7 +22,7 @@ import javax.servlet.http.HttpServletRequest;
  * shouldFilter：这里可以写逻辑判断，是否要过滤，本文true,永远过滤。
  * run：过滤器的具体逻辑。可用很复杂，包括查sql，nosql去判断该请求到底有没有权限访问。
  */
-@Component
+
 public class MyFilter extends ZuulFilter {
     private static Logger log = LoggerFactory.getLogger(MyFilter.class);
 
